@@ -1,4 +1,4 @@
 numpy==1.19.4
 nltk==3.6.1
 pandas==1.1.4
-sklearn==1.0
+Scikit-learn==1.0
